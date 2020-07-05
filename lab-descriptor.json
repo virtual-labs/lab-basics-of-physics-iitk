@@ -1,0 +1,98 @@
+{
+    "broadArea": {
+        "name": "Physical Sciences",
+        "link": "http://vlab.co.in/broad-area-physical-sciences"
+    },
+    "lab": "Basics of Physics",
+    "phase": "3",
+    "deployLab":true,
+    "collegeName": "IITK",
+    "baseUrl": "http://bop-iitk.vlabs.ac.in",
+    "introduction": "Welcome to the Basics of Physics Lab",
+    "experiments": [
+            {
+                "name": "Carey Foster’s Bridge to Measure Specific Resistance of Material",
+                "short-name": "carey-foster-bridge",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/carey-foster-bridge-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true 
+            }, {
+                "name": "Energy Band Gap of Semiconductor",
+		"short-name": "energy-band-gap",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/energy-band-gap-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Radiation with Temperature Change Using Stefan’s Law",
+		"short-name": "stefans-law",
+                "repo": " http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/stefans-law-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Finding Viscosity of Liquid by Rotating Cylinder Method",
+		"short-name": "liquid-viscosity",	
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/liquid-viscosity-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Measurement of the wavelength of monochromatic source of light with the help of Fresnel’s Bi prism",
+		"short-name": "fresnel-biprism",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/fresnel-biprism-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Measurement of focal length of the combination of the two lenses separated by a distance",
+		"short-name": "focal-length-measurement",
+                "repo": " http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/focal-length-measurement-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true 
+            }, { 
+                "name": "To measure specific rotation of cane sugar using Polarimeter",
+		"short-name": "cane-sugar-rotation",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/cane-sugar-rotation-iitk",
+ 	        "tag": "v1.0.0",
+        	"deploy": true
+            }, {
+                "name": "Measurement of high resistance by the method of leakage of condenser",
+                "short-name": "condenser-leakage-method",        
+		"repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/condenser-leakage-method-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "To study polarization of light using He-Ne Laser",
+		"short-name": "he-ne-laser-polarization",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/he-ne-laser-polarization-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            },{
+                "name": "Measurement of Numerical aperture and attenuation constant of optical fibre",
+		"short-name": "numerical-aperture-measurement",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/numerical-aperture-measurement-iitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }
+ 
+    ], 
+"targetAudience": {
+        "UG": [
+            "B. Tech./ B.E in Physical Science"
+        ],
+        "PG": [
+            "MS/Ph. D. Beginners in Physical Science"	
+        ]
+    },
+    "objective": [ 
+		"Student will be able to explain the Basics of Physics.",
+		"Student will be able to predict the variation of various measurable Physical quantities with physical conditions like temperature.",
+		"Student will be able to analyze the Basic laws of physics."
+    ],
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": [
+            "Kurukshetra University Haryana",
+            "Indraprastha Academy Of Science & Engineering Uttar Pradesh",
+            "Abdul Kalam Technical University Uttar Pradesh",
+            "Maharshi Dayanand University Haryana"
+        ]
+    }
+}
