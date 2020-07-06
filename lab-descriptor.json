@@ -13,61 +13,61 @@
             {
                 "name": "Carey Foster’s Bridge to Measure Specific Resistance of Material",
                 "short-name": "carey-foster-bridge",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/carey-foster-bridge-iitk",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/carey-foster-bridge-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true 
             }, {
                 "name": "Energy Band Gap of Semiconductor",
 		"short-name": "energy-band-gap",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/energy-band-gap-iitk",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/energy-band-gap-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
                 "name": "Radiation with Temperature Change Using Stefan’s Law",
 		"short-name": "stefans-law",
-                "repo": " http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/stefans-law-iitk",
+                "repo": " http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/stefans-law-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
                 "name": "Finding Viscosity of Liquid by Rotating Cylinder Method",
 		"short-name": "liquid-viscosity",	
-                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/liquid-viscosity-iitk",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/liquid-viscosity-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
                 "name": "Measurement of the wavelength of monochromatic source of light with the help of Fresnel’s Bi prism",
 		"short-name": "fresnel-biprism",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/fresnel-biprism-iitk",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/fresnel-biprism-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
                 "name": "Measurement of focal length of the combination of the two lenses separated by a distance",
 		"short-name": "focal-length-measurement",
-                "repo": " http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/focal-length-measurement-iitk",
+                "repo": " http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/focal-length-measurement-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true 
             }, { 
                 "name": "To measure specific rotation of cane sugar using Polarimeter",
 		"short-name": "cane-sugar-rotation",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/cane-sugar-rotation-iitk",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/cane-sugar-rotation-iitk.git",
  	        "tag": "v1.0.0",
         	"deploy": true
             }, {
                 "name": "Measurement of high resistance by the method of leakage of condenser",
                 "short-name": "condenser-leakage-method",        
-		"repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/condenser-leakage-method-iitk",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/condenser-leakage-method-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
                 "name": "To study polarization of light using He-Ne Laser",
 		"short-name": "he-ne-laser-polarization",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/he-ne-laser-polarization-iitk",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/he-ne-laser-polarization-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             },{
                 "name": "Measurement of Numerical aperture and attenuation constant of optical fibre",
 		"short-name": "numerical-aperture-measurement",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/numerical-aperture-measurement-iitk",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/basics-of-physics-iitk/numerical-aperture-measurement-iitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
             }
