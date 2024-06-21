@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Physical Sciences",
-    "link": "http://vlab.co.in/broad-area-physical-sciences"
+    "link": "http://vlab.co.in/broad-area-physical-sciences",
+    "code": "PHYSCI"
   },
   "lab": "Basics of Physics",
+  "lab_display_name": "Basics of Physics",
   "phase": 3,
   "deployLab": true,
   "collegeName": "IITK",
