@@ -96,58 +96,5 @@
       "Abdul Kalam Technical University Uttar Pradesh",
       "Maharshi Dayanand University Haryana"
     ]
-  },
-  "exp_name": "Measurement of Numerical aperture and attenuation constant of optical fibre",
-  "exp_short_name": "numerical-aperture-measurement",
-  "production": true,
-  "current_item": {
-    "item": "feedback",
-    "target": "feedback.html",
-    "label": "Feedback"
-  },
-  "menu": [
-    {
-      "item": "aim",
-      "target": "index.html",
-      "source": "aim.md",
-      "label": "Aim"
-    },
-    {
-      "item": "theory",
-      "target": "theory.html",
-      "source": "theory.md",
-      "label": "Theory"
-    },
-    {
-      "item": "pretest",
-      "target": "pretest.html",
-      "source": "pretest.js",
-      "label": "Pretest"
-    },
-    {
-      "item": "procedure",
-      "target": "procedure.html",
-      "source": "procedure.md",
-      "label": "Procedure"
-    },
-    {
-      "item": "simulation",
-      "target": "simulation.html",
-      "label": "Simulation"
-    },
-    {
-      "item": "posttest",
-      "target": "posttest.html",
-      "source": "posttest.js",
-      "label": "Posttest"
-    },
-    {
-      "item": "references",
-      "target": "references.html",
-      "source": "references.md",
-      "label": "References"
-    },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
-  ],
-  "version": "v1.7.0"
+  }
 }
