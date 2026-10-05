@@ -23,7 +23,7 @@
       "name": "Energy Band Gap of Semiconductor",
       "short-name": "energy-band-gap",
       "repo": "https://github.com/virtual-labs/exp-energy-band-gap-iitk",
-      "tag": "v1.0.6",
+      "tag": "v1.0.9",
       "deploy": true
     },
     {
