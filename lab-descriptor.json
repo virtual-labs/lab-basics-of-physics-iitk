@@ -7,7 +7,6 @@
   "lab": "Basics of Physics",
   "lab_display_name": "Basics of Physics",
   "phase": 3,
-  "deployLab": true,
   "collegeName": "IITK",
   "baseUrl": "bop-iitk.vlabs.ac.in",
   "introduction": "Welcome to the Basics of Physics Lab",
