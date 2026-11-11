@@ -22,7 +22,7 @@
       "name": "Energy Band Gap of Semiconductor",
       "short-name": "energy-band-gap",
       "repo": "https://github.com/virtual-labs/exp-energy-band-gap-iitk",
-      "tag": "v1.0.9",
+      "tag": "v1.1.1",
       "deploy": true
     },
     {
@@ -36,8 +36,8 @@
       "name": "Finding Viscosity of Liquid by Rotating Cylinder Method",
       "short-name": "liquid-viscosity",
       "repo": "https://github.com/virtual-labs/exp-liquid-viscosity-iitk",
-      "tag": "v1.0.6",
-      "deploy": false
+      "tag": "v1.0.7",
+      "deploy": true
     },
     {
       "name": "Measurement of the wavelength of monochromatic source of light with the help of Fresnel’s Bi prism",
